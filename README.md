@@ -1,2 +1,1 @@
-# third
-TinDog
+TinDog Starting Files
